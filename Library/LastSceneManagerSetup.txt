@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Unity projects/Runner v0.3a/Fantasy runner/Assets/Scenes/Main Menu.unity
+  isLoaded: 1
+  isActive: 1
