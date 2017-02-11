@@ -20,11 +20,11 @@ public class MovementControl : MonoBehaviour {
         //myRigidbody.velocity = new Vector2(Input.GetAxisRaw("Horizontal") * speed * Time.deltaTime, myRigidbody.velocity.y);
         // Input.GetAxisRaw("Vertical") * speed * Time.deltaTime
     }
-    void OnCollisionEnter2D(Collision2D coll)
-    {
-        Debug.Log("Collide");
-        
-    }
+    //void OnCollisionEnter2D(Collision2D coll)
+    //{
+       // Debug.Log("Collide");
+       // 
+   // }
 
 
 }
