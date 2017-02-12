@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 212775979582287406}
   - component: {fileID: 61401342314625970}
   - component: {fileID: 50139321778503392}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: firstBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40,7 +40,7 @@ GameObject:
   - component: {fileID: 212984040982911966}
   - component: {fileID: 61896260977799126}
   - component: {fileID: 50930375653653308}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: 3x1WallBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58,7 +58,7 @@ GameObject:
   - component: {fileID: 212466839379952520}
   - component: {fileID: 61891204342177354}
   - component: {fileID: 50879596399409536}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: thirdBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
