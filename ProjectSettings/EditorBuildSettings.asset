@@ -11,3 +11,7 @@ EditorBuildSettings:
     path: Assets/Builds/menu_scene.unity
   - enabled: 1
     path: Assets/Builds/dictator.unity
+  - enabled: 1
+    path: Assets/Builds/win_scene.unity
+  - enabled: 1
+    path: Assets/Builds/Level2.unity

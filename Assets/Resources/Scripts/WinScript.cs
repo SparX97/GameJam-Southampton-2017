@@ -13,11 +13,11 @@ public class WinScript : MonoBehaviour {
 	void Update () {
 		
 	}
-    void OnCollisionEnter(Collision2D col)
+    void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag == "Player")
         {
-            Debug.Log("youWin");
+            Application.LoadLevel("win_scene");
         }
     }
 }

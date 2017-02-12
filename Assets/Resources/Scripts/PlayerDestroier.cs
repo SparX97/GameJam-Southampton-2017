@@ -14,12 +14,15 @@ public class PlayerDestroier : MonoBehaviour {
 		
 	}
 
-    void OnCollisionEnter (Collider2D col)
+    void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.CompareTag("Player"))
+        if (col.gameObject.CompareTag("Player"))
         {
+            
             col.gameObject.SetActive(false);
             Application.LoadLevel("death_scene");
+
+            
         }
     }
 }
