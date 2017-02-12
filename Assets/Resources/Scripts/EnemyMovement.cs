@@ -37,7 +37,7 @@ public class EnemyMovement : MonoBehaviour {
 	public Vector2 aPosition1 = new Vector2(3, 3);
 	// Update is called once per frame
 	void Update () {
-
+        GetComponent<SpriteRenderer>().color = Color.green;
          if(direction==Direction.EAST)
          myTransform.Translate(new Vector2(1*Time.deltaTime *speed,0*Time.deltaTime));
          else if(direction==Direction.WEST)
@@ -68,39 +68,12 @@ public class EnemyMovement : MonoBehaviour {
        // if (test)
            // Debug.Log("dddddddd");
     }
-    private enum HitDirection { None, Top, Bottom, Forward, Back, Left, Right }
-    private HitDirection ReturnDirection(GameObject Object, GameObject ObjectHit)
-    {
-
-        HitDirection hitDirection = HitDirection.None;
-        RaycastHit MyRayHit;
-        Vector3 direction = (Object.transform.position - ObjectHit.transform.position).normalized;
-        Ray MyRay = new Ray(ObjectHit.transform.position, direction);
-
-        if (Physics.Raycast(MyRay, out MyRayHit))
-        {
-
-            if (MyRayHit.collider != null)
-            {
-
-                Vector3 MyNormal = MyRayHit.normal;
-                MyNormal = MyRayHit.transform.TransformDirection(MyNormal);
-
-                if (MyNormal == MyRayHit.transform.up) { hitDirection = HitDirection.Top; }
-                if (MyNormal == -MyRayHit.transform.up) { hitDirection = HitDirection.Bottom; }
-                if (MyNormal == MyRayHit.transform.forward) { hitDirection = HitDirection.Forward; }
-                if (MyNormal == -MyRayHit.transform.forward) { hitDirection = HitDirection.Back; }
-                if (MyNormal == MyRayHit.transform.right) { hitDirection = HitDirection.Right; }
-                if (MyNormal == -MyRayHit.transform.right) { hitDirection = HitDirection.Left; }
-            }
-        }
-        return hitDirection;
+   
     
-}
 
 void OnCollisionEnter2D(Collision2D col)
     {
-        Debug.Log(ReturnDirection(col.gameObject, this.gameObject));
+       
         /* Direction newDir = Direction.WEST;
 
          float randomVal = Random.value * 10;
@@ -139,7 +112,7 @@ void OnCollisionEnter2D(Collision2D col)
         bool top = contactPoint.x > center.x;
 
        // Debug.Log(right + " " + top);
-       /* if(top==true && direction == Direction.NORTH)
+       if(top==true && direction == Direction.NORTH)
         {
             myTransform.Translate(new Vector2(0 * Time.deltaTime * speed, -10 * Time.deltaTime));
             Debug.Log("North");
@@ -153,7 +126,7 @@ void OnCollisionEnter2D(Collision2D col)
         }
         else if (right == true && direction == Direction.EAST)
         {
-            myTransform.Translate(new Vector2(-100 * Time.deltaTime * speed, 0 * Time.deltaTime));
+            myTransform.Translate(new Vector2(-10 * Time.deltaTime * speed, 0 * Time.deltaTime));
             Debug.Log("East");
             direction = Direction.SOUTH;
         }

@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 58204600870508622}
   m_Layer: 0
   m_Name: Player 1
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -119,6 +119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  bombNumber: 5
   bomb: {fileID: 1072941665275100, guid: 1698bc7e50f1f904ca1ea4f2d9af7e99, type: 2}
 --- !u!212 &212730712576832152
 SpriteRenderer:
