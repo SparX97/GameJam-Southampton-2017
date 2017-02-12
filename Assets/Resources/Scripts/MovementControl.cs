@@ -6,6 +6,7 @@ public class MovementControl : MonoBehaviour {
 
     Transform myTransform;
     public float speed;
+    public int bombNumber = 5;
     public GameObject bomb;
     //private Transform playerPosition;
 
@@ -22,19 +23,19 @@ public class MovementControl : MonoBehaviour {
 
         //playerPosition = GetComponent<Transform>();
         
-        if (Input.GetKeyDown("space"))
+        if (Input.GetKeyDown("space") && bombNumber >0)
         {
             //for (int i = 0; i < bombs.Count; i++)
-           // {
-                //if (!bombs[i].activeInHierarchy)
-                //{
-                   // bombs[i].transform.position = transform.position;
-                   // bombs[i].transform.rotation = transform.rotation;
-                   // bombs[i].SetActive(true);
-                   // break;
-               // }
+            // {
+            //if (!bombs[i].activeInHierarchy)
+            //{
+            // bombs[i].transform.position = transform.position;
+            // bombs[i].transform.rotation = transform.rotation;
+            // bombs[i].SetActive(true);
+            // break;
+            // }
             //}
-            
+            bombNumber--;
             bomb.transform.position = transform.position;
            // bomb.GetComponent<Animation>().Play("Explosion");
             Instantiate(bomb);

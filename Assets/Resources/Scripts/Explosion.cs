@@ -33,8 +33,7 @@ public class Explosion : MonoBehaviour {
             timer = timer - Time.deltaTime;
         } else
         {
-            //anim.enabled = true;
-            Debug.Log("asdfasfPlayed");
+            //anim.enabled = true
 
             Collider2D[] hits = Physics2D.OverlapCircleAll(new Vector2(transform.position.x, transform.position.y), 2);
 

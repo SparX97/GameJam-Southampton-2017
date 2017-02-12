@@ -123,684 +123,44 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4267571515402322, guid: f6e79870573be9144b323ab31a3699c5, type: 2}
+    - target: {fileID: 4076781411808514, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
       propertyPath: m_LocalPosition.x
       value: -14.108068
       objectReference: {fileID: 0}
-    - target: {fileID: 4267571515402322, guid: f6e79870573be9144b323ab31a3699c5, type: 2}
+    - target: {fileID: 4076781411808514, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
       propertyPath: m_LocalPosition.y
       value: -6.521796
       objectReference: {fileID: 0}
-    - target: {fileID: 4267571515402322, guid: f6e79870573be9144b323ab31a3699c5, type: 2}
+    - target: {fileID: 4076781411808514, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4267571515402322, guid: f6e79870573be9144b323ab31a3699c5, type: 2}
+    - target: {fileID: 4076781411808514, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4267571515402322, guid: f6e79870573be9144b323ab31a3699c5, type: 2}
+    - target: {fileID: 4076781411808514, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4267571515402322, guid: f6e79870573be9144b323ab31a3699c5, type: 2}
+    - target: {fileID: 4076781411808514, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4267571515402322, guid: f6e79870573be9144b323ab31a3699c5, type: 2}
+    - target: {fileID: 4076781411808514, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4267571515402322, guid: f6e79870573be9144b323ab31a3699c5, type: 2}
+    - target: {fileID: 4076781411808514, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
       propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114752520160399272, guid: f6e79870573be9144b323ab31a3699c5,
-        type: 2}
-      propertyPath: bomb
-      value: 
-      objectReference: {fileID: 1072941665275100, guid: 1698bc7e50f1f904ca1ea4f2d9af7e99,
-        type: 2}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: f6e79870573be9144b323ab31a3699c5, type: 2}
-  m_IsPrefabParent: 0
---- !u!1001 &196042473
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4933188966171550, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4933188966171550, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4933188966171550, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4933188966171550, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4933188966171550, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4933188966171550, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4933188966171550, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4933188966171550, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 1886108667387638, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1630165868720690, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1783402660214238, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1226372192707504, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1630175401572482, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1435735023683554, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1018234129051540, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1076372707852182, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1729863075485812, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1065467052372238, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1290543320878430, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1888974707185108, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1285416484724462, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1488469102870858, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1434540555944674, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1965264010617916, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1969493700761420, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1029906000532234, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1710942473629118, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1973907160759090, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1650634992662868, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1001313322237952, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1536992823852810, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1718949283066804, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1003596322676292, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1002592184481494, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1674010427757428, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1200576352735398, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1125102655614152, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1689514322650980, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1119975553776028, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1528344432165552, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1041986670383992, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1963901615867682, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1893812982234302, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1035407220949426, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1360495352185994, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1957453654009596, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1352986272127420, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1755847528762526, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1363466450825730, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1818342981759614, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1303108269658074, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1157704085440674, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1712103881233168, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1295380532412388, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1491293052151936, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1037914580674180, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1492108783029158, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1831478390527464, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1665336131962192, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1741040795196066, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1888499796108070, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1237616982020538, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1442179258839296, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1927376421216484, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1469067496383462, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1928656313620692, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1403699343408352, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1882000840343862, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1107730309206034, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1829384786308558, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1786092429889932, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1019009859930538, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1610344022235270, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1701197477264330, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1969174225015898, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1210946642844916, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1824132790773430, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1048021090890040, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1076326659026754, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1437792371877882, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1970049896918306, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1206495089129492, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1888139027705300, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1215742943728900, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1825673054341264, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1063009625547806, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1856770478892922, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1476449451383950, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1473013055067652, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1445487622484136, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1854393120543142, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1429741347827260, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1427468303244888, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1725975067544432, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1530973120899904, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1818050155466590, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1405405533447072, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1393673694514734, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1575847151275732, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1374286889478298, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1449040972454396, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1005981960617124, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1764401724981276, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1670292057221074, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1964279626344252, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1465183596459028, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1947582939044332, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1143647985956010, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1765315694353552, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1875153529446058, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1704800579011578, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1793844189127474, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1356683449825000, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1988730499953966, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1035583517614684, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1260590091636654, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1352827136127232, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1000181091249650, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1548697102246472, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1639712638452650, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1409156899041054, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1993544673512292, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1385403679767500, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1354477485353494, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1939762616762228, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1236694182739612, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1544143688786748, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1618194477559920, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1712047235902910, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1638489832448658, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1342934104918338, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1839903739647654, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1327348192738282, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1278238113049330, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1264373335528434, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1126283884286816, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1107453725001754, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1225471150576960, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1878990790072958, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1359752032425910, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1260233357407650, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1858323208059688, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1906514378859066, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1889268635388662, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1669836926533430, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1102314849078368, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1578717600807268, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1859843915058162, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1988776730630668, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1370570124971220, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1883749520797926, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1054116879947456, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1267593333022736, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1293930289555930, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1165049617686002, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1547496062026510, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
-      objectReference: {fileID: 0}
-    - target: {fileID: 1580465687377160, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1869779189519402, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
+      propertyPath: m_Name
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 8503bd911ad07de4ab4766fc28b773a6, type: 2}
+  m_ParentPrefab: {fileID: 100100000, guid: 0a7878b2823721e489a2a0f80612df5b, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &249458153
 Prefab:
@@ -839,7 +199,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4594386364826502, guid: c1d209fd4559dcd4fb2a1c2aed883a4b, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1729543828925946, guid: c1d209fd4559dcd4fb2a1c2aed883a4b, type: 2}
       propertyPath: m_Layer
@@ -1645,217 +1005,133 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c1d209fd4559dcd4fb2a1c2aed883a4b, type: 2}
   m_IsPrefabParent: 0
---- !u!4 &611392722 stripped
-Transform:
-  m_PrefabParentObject: {fileID: 4933188966171550, guid: 8503bd911ad07de4ab4766fc28b773a6,
-    type: 2}
-  m_PrefabInternal: {fileID: 196042473}
---- !u!1 &1365087780
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 1365087784}
-  - component: {fileID: 1365087783}
-  - component: {fileID: 1365087781}
-  m_Layer: 0
-  m_Name: Quad
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!23 &1365087781
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1365087780}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_Materials:
-  - {fileID: 2100000, guid: 94ea4120e9580054781b8ee3651973f9, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 1
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingOrder: 0
---- !u!33 &1365087783
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1365087780}
-  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1365087784
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1365087780}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 32, y: 18, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1459363341
+--- !u!1001 &749242135
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 611392722}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
+    - target: {fileID: 4258877779885904, guid: 58a2c3b2d28458d4bb8c010a4fe9afa4, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -15.42
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
+    - target: {fileID: 4258877779885904, guid: 58a2c3b2d28458d4bb8c010a4fe9afa4, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -8.48
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
+    - target: {fileID: 4258877779885904, guid: 58a2c3b2d28458d4bb8c010a4fe9afa4, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -0.1
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
+    - target: {fileID: 4258877779885904, guid: 58a2c3b2d28458d4bb8c010a4fe9afa4, type: 2}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
+    - target: {fileID: 4258877779885904, guid: 58a2c3b2d28458d4bb8c010a4fe9afa4, type: 2}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
+    - target: {fileID: 4258877779885904, guid: 58a2c3b2d28458d4bb8c010a4fe9afa4, type: 2}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
+    - target: {fileID: 4258877779885904, guid: 58a2c3b2d28458d4bb8c010a4fe9afa4, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
+    - target: {fileID: 4258877779885904, guid: 58a2c3b2d28458d4bb8c010a4fe9afa4, type: 2}
       propertyPath: m_RootOrder
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 8.747273
-      objectReference: {fileID: 0}
-    - target: {fileID: 4063276997848468, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 6.988353
-      objectReference: {fileID: 0}
-    - target: {fileID: 1372962433880916, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
-      propertyPath: m_TagString
-      value: BedRock
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: aa2851e04e517d747a9cfc25260c0d42, type: 2}
+  m_ParentPrefab: {fileID: 100100000, guid: 58a2c3b2d28458d4bb8c010a4fe9afa4, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &2030151434
-GameObject:
+--- !u!1001 &1313870711
+Prefab:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 2030151439}
-  - component: {fileID: 2030151438}
-  - component: {fileID: 2030151437}
-  - component: {fileID: 2030151436}
-  - component: {fileID: 2030151435}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!81 &2030151435
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2030151434}
-  m_Enabled: 1
---- !u!124 &2030151436
-Behaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2030151434}
-  m_Enabled: 1
---- !u!92 &2030151437
-Behaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2030151434}
-  m_Enabled: 1
---- !u!20 &2030151438
-Camera:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2030151434}
-  m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 0.88
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 1
-  orthographic size: 9
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
-  m_StereoMirrorMode: 0
---- !u!4 &2030151439
-Transform:
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4236085287080244, guid: bccb90d2c2ae487419232d784b191fc6, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236085287080244, guid: bccb90d2c2ae487419232d784b191fc6, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236085287080244, guid: bccb90d2c2ae487419232d784b191fc6, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236085287080244, guid: bccb90d2c2ae487419232d784b191fc6, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236085287080244, guid: bccb90d2c2ae487419232d784b191fc6, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236085287080244, guid: bccb90d2c2ae487419232d784b191fc6, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236085287080244, guid: bccb90d2c2ae487419232d784b191fc6, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236085287080244, guid: bccb90d2c2ae487419232d784b191fc6, type: 2}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: bccb90d2c2ae487419232d784b191fc6, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &2099722380
+Prefab:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2030151434}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4677105845027634, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4677105845027634, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4677105845027634, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4677105845027634, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4677105845027634, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4677105845027634, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4677105845027634, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4677105845027634, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1640451150382072, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+      propertyPath: m_Name
+      value: OuterWalls
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: e86f07137808f2a469ecbf46c6a918b9, type: 2}
+  m_IsPrefabParent: 0
