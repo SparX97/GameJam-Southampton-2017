@@ -17,11 +17,4 @@ public class KingScript : MonoBehaviour {
         kingPos.Rotate(new Vector3(0,0,speed) * Time.deltaTime);
 	}
 
-    void OnCollisionEnter(Collision2D col)
-    {
-        if (col.gameObject.tag == "Player")
-        {
-            Application.LoadLevel("youWin");
-        }
-    }
 }

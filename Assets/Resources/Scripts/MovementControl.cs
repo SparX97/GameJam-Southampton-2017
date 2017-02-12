@@ -45,13 +45,18 @@ public class MovementControl : MonoBehaviour {
 
     }
 
-    void OnCollisionEnter(Collision2D col)
+    //void OnCollisionEnter(Collision2D col)
+    //{
+        //if (col.gameObject.tag == "Enemy")
+       // {
+           // gameObject.SetActive(false);
+           // Application.LoadLevel("Death_scene");
+       // }
+   // }
+
+    void OnDestroy()
     {
-        if (col.gameObject.tag == "Enemy")
-        {
-            gameObject.SetActive(false);
-            Application.LoadLevel("Death_scene");
-        }
+        Application.LoadLevel("death_scene");
     }
 
 }
