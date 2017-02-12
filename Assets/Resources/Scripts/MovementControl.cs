@@ -45,6 +45,13 @@ public class MovementControl : MonoBehaviour {
 
     }
 
-    
+    void OnCollisionEnter(Collision2D col)
+    {
+        if (col.gameObject.tag == "Enemy")
+        {
+            gameObject.SetActive(false);
+            Application.LoadLevel("Death_scene");
+        }
+    }
 
 }
